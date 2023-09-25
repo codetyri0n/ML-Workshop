@@ -1,3 +1,3 @@
 # ML-Workshop
 
-This repository contains the files and links used for the talk on "Exploring Tensorflow".
+This repository contains the files and links used for the talk on "Exploring Tensorflow" at ByteCon : 103 .
